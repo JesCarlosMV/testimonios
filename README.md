@@ -1,6 +1,6 @@
 # testimonios
 
-Esta app web renderiza atraves del componente <Testimonio />.
+Esta app web renderiza atraves del componente ``` <Testimonio /> ``` .
 
 Funcionamiento:
 
